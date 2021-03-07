@@ -3,6 +3,6 @@ I am still student learning Machine Learning, to share my passion about its topi
 
 *Lecture 0*: [Machine Learning, Data Science and Artificial intelligence](https://github.com/WalidHadri-Iron/MachineLearningLectures/tree/main/Lecture_0)
 
-*Lecture 1*: [Introduction to Machine Learning]()
+*Lecture 1*: [Introduction to Machine Learning](https://github.com/WalidHadri-Iron/MachineLearningLectures/tree/main/Lecture_1)
 
 
