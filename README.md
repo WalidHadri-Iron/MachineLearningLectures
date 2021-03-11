@@ -3,8 +3,8 @@ I am still a student, learning Machine Learning by myself, to share my passion a
 
 [*Introductory Lectures*](https://github.com/WalidHadri-Iron/MachineLearningLectures/tree/main/IntroductionLectures): 
 
-      *Lecture 0*: Machine Learning, Artificial intelligence and Data Science
-      *Lecture 1*: Introduction to Machine Learning
+      Lecture 0: Machine Learning, Artificial intelligence and Data Science
+      Lecture 1: Introduction to Machine Learning
 
 
 [*Supervised Learning*](https://github.com/WalidHadri-Iron/MachineLearningLectures/tree/main/IntroductionLectures): 
