@@ -3,4 +3,4 @@ The goal of these lectures is to give a brief introduction about Machine Learnin
 
 *Lecture 0*:  [Machine Learning, AI and Data Science](https://walidhadri.medium.com/machine-learning-data-science-and-artificial-intelligence-a45a2ffe9639)
 
-*Lecture 1*: [Introduction to Machine Learning]()
+*Lecture 1*: [Introduction to Machine Learning](https://walidhadri.medium.com/introduction-to-machine-learning-428a630417dd)
