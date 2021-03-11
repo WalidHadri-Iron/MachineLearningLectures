@@ -7,4 +7,6 @@ I am still a student, learning Machine Learning by myself, to share my passion a
       Lecture 1: Introduction to Machine Learning
 
 
-[*Supervised Learning*](https://github.com/WalidHadri-Iron/MachineLearningLectures/tree/main/IntroductionLectures): 
+[*Supervised Learning*](https://github.com/WalidHadri-Iron/MachineLearningLectures/tree/main/SupervisedLearning):
+
+      Lecture 2: Introduction to Supervised Learning
