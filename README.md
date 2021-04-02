@@ -10,3 +10,4 @@ I am still a student, learning Machine Learning by myself, to share my passion a
 [*Supervised Learning*](https://github.com/WalidHadri-Iron/MachineLearningLectures/tree/main/SupervisedLearning):
 
       Lecture 2: Introduction to Supervised Learning
+      Lecture 3: Supervised Learning Setup and Bias-Variance Trade-off
