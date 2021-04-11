@@ -11,3 +11,4 @@ I am still a student, learning Machine Learning by myself, to share my passion a
 
       Lecture 2: Introduction to Supervised Learning
       Lecture 3: Supervised Learning Setup and Bias-Variance Trade-off
+      KNN Lecture Serie: Part1, Part2
